@@ -1,2 +1,4 @@
 # hello-world
-hello world repository
+
+Hi people. lesley here, I love playing field hockey and coding in python.
+thanks for passing by :)
